@@ -1,0 +1,40 @@
+Question,Answer
+What is machine learning?,Machine learning is a branch of artificial intelligence where models learn patterns from data to make decisions or predictions without explicit programming.
+What is a dataset in machine learning?,A dataset is a collection of data used for training or evaluating machine learning models. It consists of features and labels (in supervised learning).
+What is a feature in machine learning?,A feature is an individual measurable property or characteristic of a phenomenon being observed. In machine learning  
+What is supervised learning?,Supervised learning is a type of machine learning where the model is trained using labeled data  
+What is a training set and a test set?,A training set is used to teach the model  
+What is model accuracy?,Accuracy is the percentage of correct predictions made by the model out of all predictions.
+What is classification in machine learning?,Classification is a type of supervised learning task where the goal is to assign input data into predefined categories or classes.
+What is regression in machine learning?,Regression is a type of supervised learning task where the goal is to predict a continuous value  
+Why is data cleaning important in machine learning?,Data cleaning removes noise  and outliers from data to improve model performance and accuracy.
+What is overfitting?,Overfitting happens when a model performs well on training data but poorly on unseen data because it learns noise and details specific to the training set.
+What is underfitting?,Underfitting occurs when a model is too simple and cannot capture the underlying patterns in the data  resulting in poor performance on both training and test data.
+What is cross-entropy loss?,Cross-entropy loss is a common loss function used in classification tasks  measuring the difference between the predicted and actual probability distributions.
+What are epochs in machine learning?,An epoch refers to one complete pass of the entire training dataset through the model during training.
+What is a learning rate?,The learning rate is a hyperparameter that controls the step size in gradient descent optimization algorithms. It determines how fast or slow the model learns.
+What is validation data?,Validation data is a subset of the dataset used to tune hyperparameters and prevent overfitting during model training.
+What is the k-nearest neighbors algorithm (KNN)?,KNN is a simple  non-parametric algorithm used for classification and regression. It predicts a label by finding the majority class among the 'k' nearest data points.
+What is a support vector machine (SVM)?,SVM is a supervised learning algorithm that finds a hyperplane in a high-dimensional space to classify data points into different classes.
+What is logistic regression?,Logistic regression is a linear model used for binary classification  predicting the probability of an instance belonging to a class.
+What is a confusion matrix?,A confusion matrix summarizes the performance of a classification model by displaying the number of true positives  true negatives
+What is the difference between precision and recall?,Precision is the ratio of correctly predicted positives to all predicted positives. Recall is the ratio of correctly predicted positives to all actual positives.
+What is the F1 score?,The F1 score is the harmonic mean of precision and recall  
+What is the bias-variance tradeoff?,The bias-variance tradeoff is the balance between a model's ability to minimize bias (error from incorrect assumptions) and variance (error from sensitivity to small fluctuations in data).
+What is feature engineering?,Feature engineering involves creating new features or modifying existing features to improve model performance by capturing more useful information from the data.
+What is one-hot encoding?,One-hot encoding transforms categorical data into a binary matrix where each category is represented as a separate column with 1s and 0s.
+What is batch normalization?,Batch normalization is a technique used to normalize the inputs of each layer in a neural network  
+What is dropout in neural networks?,Dropout is a regularization technique that randomly drops a subset of neurons during training to prevent the network from becoming too specialized to the training data.
+What is data augmentation?,Data augmentation increases the diversity of a training dataset by applying random transformations like rotations  and scaling to input data
+What is a convolutional neural network (CNN)?,CNNs are specialized deep learning architectures designed to process grid-like data such as images. They use convolutional layers to capture local patterns and features.
+What is a recurrent neural network (RNN)?,RNNs are a class of neural networks designed for sequential data  allowing them to maintain a 'memory' of previous inputs.
+What is transfer learning?,Transfer learning involves using a pre-trained model on a similar problem as the starting point for training a new model  
+What is an autoencoder?,An autoencoder is a type of neural network used for unsupervised learning  then reconstruct it.
+What is the purpose of attention mechanisms in neural networks?,Attention mechanisms allow models to focus on specific parts of the input data  
+What is the transformer architecture?,The transformer architecture is a deep learning model that relies on self-attention mechanisms to process data in parallel  
+What is reinforcement learning?,Reinforcement learning is a type of learning where an agent learns to make decisions by interacting with an environment  
+What is Q-learning?,Q-learning is a reinforcement learning algorithm that learns the quality of actions (Q-values) based on the rewards it receives  
+What are generative adversarial networks (GANs)?,GANs are a class of neural networks where two models  compete. The generator creates fake data while the discriminator tries to distinguish it from real data.
+What is the curse of dimensionality?,The curse of dimensionality refers to problems that arise when analyzing and organizing data in high-dimensional spaces  
+What are hyperparameter tuning techniques?,Hyperparameter tuning techniques include grid search  and Bayesian optimization
+What is XGBoost?,XGBoost is an optimized implementation of gradient boosting algorithms  structured prediction problems.
