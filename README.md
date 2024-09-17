@@ -21,7 +21,9 @@ The app is designed to be simple, and it can be packaged as a Windows executable
 
 ## Screenshot
 
-![Quiz App Screenshot](path_to_screenshot_image)
+![Quiz App Screenshot](screenshots/main.png)
+![Quiz App Screenshot](screenshots/show_answer.png)
+![Quiz App Screenshot](screenshots/correct_answer.png)
 
 ## Getting Started
 
